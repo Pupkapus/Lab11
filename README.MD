@@ -23,6 +23,8 @@
 
 <p align = "center" >Упражнение.Реализовать приложение по макету, материалы для макета в архиве lab11.zip. Реализовать с помощью https://openweathermap.org/api, заполнение данными, город назначения выбирайте самостоятельно.</p>
 
+![Screenshot](https://github.com/Pupkapus/Lab11/blob/main/Screenshot_1.png)
+
 <p align = "center" >MainActivity</p>
 
 ```kotlin
